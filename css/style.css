@@ -1012,8 +1012,9 @@ body.nav-active .nav__list-item:nth-child(10) {
 	opacity: 1;
 }
 .case-study-name.active h1:before{
-	opacity: 1;
-	height: 20px;
+	opacity: 0.4;
+	height: 15px;
+	border-radius: 25px;
 }
 .case-study-images {
 	position: absolute;
