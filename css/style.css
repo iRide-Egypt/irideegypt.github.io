@@ -307,7 +307,18 @@ a:hover {
 	width:100%;
 	height: auto;
 	display:block;
+	border-radius: 15px;
 }
+a.disabled {
+	pointer-events: none;
+	user-select: none;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	-o-user-select: none;
+	cursor: help;
+}
+
 .z-bigger  {
 	z-index:10;
 }
