@@ -2505,6 +2505,12 @@ figure.vimeo a img, figure.youtube a img {
 	transition: all 200ms linear; 
 	
 }
+.faicon{
+	filter: brightness(0) invert(1);
+	height: 19.67px;
+	width: 18.67px;
+	margin-left: -10px;
+}
 .social-fixed a:hover{
 	opacity: 0.5;
 	/* margin-top: 4px; */
