@@ -2806,8 +2806,13 @@ figure.vimeo a img, figure.youtube a img {
 	}
 }
 
-
-
+.grlogo{
+	height: auto;
+	max-width: 100%;
+	max-height: 140px;
+	border-radius: 100%;
+	border: 3px solid rgba(253, 253, 253, 0.315);
+}
 
 
 
