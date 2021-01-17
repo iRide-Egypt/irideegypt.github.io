@@ -2219,7 +2219,8 @@ body.nav-active .nav__list-item:nth-child(10) {
 		left: 17px;
 	}
 	.copyr {
-		bottom: 15px;
+		display: none;
+		bottom: 125px;
 		right: 17px;
 	}
 	.scroll-to-top{
